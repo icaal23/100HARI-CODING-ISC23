@@ -8,7 +8,7 @@ public class H98_CODING {
         System.out.println("Sebelum : " + list);
         
         String lastElement = list.pollLast();
-        System.out.println("Elemen pertama yang dihapus: " + lastElement);
+        System.out.println("Elemen terakhir yang dihapus: " + lastElement);
         System.out.println("Sesudah : " + list);
     }
     
